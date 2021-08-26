@@ -1,2 +1,2 @@
 # LetsUpgrade-assignments
-Day 1
+Practise
